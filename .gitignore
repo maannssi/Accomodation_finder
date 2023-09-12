@@ -1,0 +1,9 @@
+#ignore mac system files
+.DS_store
+
+node_modules
+
+.text
+.env
+
+.sass-cache
